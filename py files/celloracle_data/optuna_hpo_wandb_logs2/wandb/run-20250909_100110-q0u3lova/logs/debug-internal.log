@@ -1,0 +1,16 @@
+{"time":"2025-09-09T10:01:10.382575069+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"../celloracle_data/optuna_hpo_wandb_logs2/wandb/run-20250909_100110-q0u3lova/logs/debug-core.log"}
+{"time":"2025-09-09T10:01:10.679706064+02:00","level":"INFO","msg":"created new stream","id":"q0u3lova"}
+{"time":"2025-09-09T10:01:10.679773713+02:00","level":"INFO","msg":"stream: started","id":"q0u3lova"}
+{"time":"2025-09-09T10:01:10.679793942+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"q0u3lova"}
+{"time":"2025-09-09T10:01:10.679808304+02:00","level":"INFO","msg":"handler: started","stream_id":"q0u3lova"}
+{"time":"2025-09-09T10:01:10.679832768+02:00","level":"INFO","msg":"sender: started","stream_id":"q0u3lova"}
+{"time":"2025-09-09T10:01:10.916363124+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-09-09T10:01:12.300541773+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-09-09T10:01:12.300688416+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-09-09T10:01:13.297689377+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.219439626,"progress":"3.2KB/3.2KB"}],"total_operations":1}}
+{"time":"2025-09-09T10:01:13.395325785+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-09-09T10:01:13.626436416+02:00","level":"INFO","msg":"stream: closing","id":"q0u3lova"}
+{"time":"2025-09-09T10:01:13.626462116+02:00","level":"INFO","msg":"handler: closed","stream_id":"q0u3lova"}
+{"time":"2025-09-09T10:01:13.626478439+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"q0u3lova"}
+{"time":"2025-09-09T10:01:13.626487893+02:00","level":"INFO","msg":"sender: closed","stream_id":"q0u3lova"}
+{"time":"2025-09-09T10:01:13.629092927+02:00","level":"INFO","msg":"stream: closed","id":"q0u3lova"}
